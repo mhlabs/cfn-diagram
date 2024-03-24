@@ -1,3 +1,14 @@
+**********************************************************************************
+# THIS FORK IS NO LONGER BEING UPDATED. PLEASE FOLLOW IT AT [@ljacobsson/cfn-diagram](https://github.com/ljacobsson/cfn-diagram)
+**********************************************************************************
+
+
+
+
+
+
+
+
 # cfn-diagram
 ![Node.js CI](https://github.com/mhlabs/cfn-diagram/workflows/Node.js%20CI/badge.svg)
 
